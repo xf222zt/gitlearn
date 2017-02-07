@@ -1,1 +1,2 @@
 We need to know how the GIT is working!
+I must learn git well!
