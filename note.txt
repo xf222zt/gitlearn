@@ -4,4 +4,5 @@ I want to change something£¡
 We now coutinue learn about git.
 Yeah we come again!!
 Let create a new branch named dev£¡
-I have one dream£¡
+I have one wonderful dream£¡
+I have a dream!
