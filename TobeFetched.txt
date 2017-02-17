@@ -1,2 +1,4 @@
 this is a test to be fetched!
 This is a local text words!
+This is a test to be fetched!
+This is a remote words from github!
